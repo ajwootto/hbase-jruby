@@ -1,4 +1,4 @@
-# hbase-jruby
+#  hbase-jruby
 
 *hbase-jruby* is a simple JRuby binding for HBase.
 
